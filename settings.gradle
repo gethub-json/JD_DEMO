@@ -1,0 +1,6 @@
+rootProject.name='LieRobot'
+include ':app'
+include ':lib_utils'
+include ':lib_common'
+include ':module_main'
+include ':module_mine'
